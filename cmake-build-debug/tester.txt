@@ -1,0 +1,6 @@
+10/13/2021,Afghanistan,59,2
+10/14/2021,Afghanistan,28,4
+10/13/2021,Albania,501,6
+10/14/2021,Albania,508,5
+1/3/2020,Algeria,0,0
+1/4/2020,Algeria,0,0
